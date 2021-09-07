@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @serkangulsoy
-- 👀 I’m interested in Forest Ecology
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in forest ecology, biodiversity, climate change, statistical analysis
+- 🌱 I’m currently learning r codes
+- 💞️ I’m looking to collaborate on r codes about ecological studies.
+- 📫 How to reach me srkngulsoy@gmail.com
 
 <!---
 serkangulsoy/serkangulsoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
